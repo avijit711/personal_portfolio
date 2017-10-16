@@ -55,3 +55,11 @@ body {
 #aboutMe:link {
   text-decoration: none;
 }
+#social_site_image {
+  width: 100px;
+  float: left;
+  padding: 5px;
+}
+.clear {
+  clear: both;
+}
