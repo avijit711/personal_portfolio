@@ -1,0 +1,57 @@
+#head {
+  background-color: black;
+  height: 70px;
+  width: 100%;
+  margin: auto;
+  margin-top: -30px;
+  position: sticky ;
+}
+#headLink:link {
+  text-decoration: none;
+}
+#manu {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #2B2B2B;
+  height: 45px;
+  margin-top: 5px;
+  position: sticky;
+}
+#head-name {
+  color: white;
+  text-align: center;
+  padding-top: 7px;
+  font-size: 50px;
+}
+body {
+  background-color: grey;
+  font-family: Arial;
+}
+#manuStyle {
+  height: 45px;
+  padding: 13px;
+  position: relative;
+  top: 13px;
+  color: white;
+
+}
+#manuStyle:hover {
+  background-color: black;
+}
+#manuStyle:link {
+  text-decoration: none;
+}
+#ironMan {
+  height: 400px;
+  margin-top: 70px;
+  float: left;
+}
+#mainPageText {
+  margin-top: 70px;
+  font-size: 25px;
+  color: black;
+}
+#aboutMe:link {
+  text-decoration: none;
+}
